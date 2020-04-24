@@ -3,7 +3,7 @@
 // @name         Twitch autocollect points
 // @description  Clicks button to collect channel points automatically while watching a stream on Twitch
 // @version      1.0
-// @match        https://twitch.tv/*
+// @match        https://www.twitch.tv/*
 // @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/twitchChannelPoints.user.js
 // ==/UserScript==
 

@@ -5,7 +5,7 @@
 // @version      1.4
 // @match        https://classroom.google.com/u/1/h
 // @match        https://classroom.google.com/u/0/h
-// @updateURL    https://raw.githubusercontent.com/alrikmunoz/userscripts/master/googleClassroom.user.js
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/googleClassroom.user.js
 // ==/UserScript==
 
 setInterval(doList, 600);

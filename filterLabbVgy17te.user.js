@@ -4,7 +4,7 @@
 // @description  Toggles visibilty of all students' website links and only 17TE students' links on startpage of labb.vgy.se
 // @version      2.1
 // @match        http://labb.vgy.se/
-// @updateURL    https://raw.githubusercontent.com/alrikmunoz/userscripts/master/filterLabbVgy17te.user.js
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/filterLabbVgy17te.user.js
 // ==/UserScript==
 
 var table = document.querySelector("table");

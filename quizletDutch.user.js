@@ -4,7 +4,7 @@
 // @description  Removes 'Duolingo Dutch' from Quizlet sets' titles in folder
 // @version      1.2
 // @match        https://quizlet.com/*
-// @updateURL    https://raw.githubusercontent.com/alrikmunoz/userscripts/master/quizletDutch.user.js
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/quizletDutch.user.js
 // ==/UserScript==
 
 setTimeout(remove, 5000);

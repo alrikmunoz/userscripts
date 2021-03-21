@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Geoguessr remove bottom ad
+// @name         (BROKEN) Geoguessr remove bottom ad
 // @version      0.2
 // @description  Script to remove the ad area at the bottom of the Geoguessr viewport when playing, updates on resize too
 // @author       alrikmunoz

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         di.se top bar fix
+// @name         (BROKEN) di.se top bar fix
 // @version      0.2
 // @description  Make the top bar/area of di.se more compact
 // @author       alrikmunoz

@@ -1,11 +1,11 @@
 // ==UserScript==
-// @author       alrikmunoz
 // @name         Google Classroom classroom names clean up
+// @version      1.5
 // @description  Cleans upp classroom names in Google Classroom home screen
-// @version      1.4
+// @author       alrikmunoz
 // @match        https://classroom.google.com/u/1/h
 // @match        https://classroom.google.com/u/0/h
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/googleClassroom.user.js
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/googleClassroom/googleClassroom.user.js
 // ==/UserScript==
 
 setInterval(doList, 600);

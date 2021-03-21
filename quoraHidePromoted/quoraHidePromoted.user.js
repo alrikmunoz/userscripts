@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Hide promoted answers in Quora
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @include      https://www.quora.com/*
+// @version      0.2
+// @description  Hide promoted answers in Quora
+// @author       alrikmunoz
+// @match      https://www.quora.com/*
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/quoraHidePromoted/quoraHidePromoted.user.js
 // ==/UserScript==
 
 var promotedAnswers = document.querySelectorAll(".promoted_answer_wrapper");

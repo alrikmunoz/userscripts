@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Old Google search types buttons
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Reverts the new buttons (images, videos, etc) for search results to mostyly old design.
-// @author       You
+// @version      0.2
+// @description  Reverts the new buttons (images, videos, etc) for search results to mostly old design
+// @author       alrikmunoz
 // @match        https://www.google.com/search?*
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/googleSearch/googleSearchOldBtns.user.js
 // ==/UserScript==
 
 /*

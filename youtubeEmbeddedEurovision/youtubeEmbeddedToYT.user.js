@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Eurovision.tv directly to youtube video
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @include      https://www.youtube.com/embed/*
+// @version      0.2
+// @description  Automatically press the "Youtube"-button in embedded youtube videos to go and watch video on youtube website instead
+// @author       alrikmunoz
+// @match      https://www.youtube.com/embed/*
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/youtubeEmbeddedEurovision/youtubeEmbeddedToYT.user.js
 // ==/UserScript==
 
 document.querySelector(".ytp-large-play-button").click();

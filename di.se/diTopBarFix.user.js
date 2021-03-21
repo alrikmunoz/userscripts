@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         di.se top bar fix
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      0.2
+// @description  Make the top bar/area of di.se more compact
+// @author       alrikmunoz
 // @match        https://www.di.se/*
-// @grant        none
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/di.se/diTopBarFix.user.js
 // ==/UserScript==
 
 function hideTop() {

@@ -1,10 +1,10 @@
 // ==UserScript==
-// @author       alrikmunoz
 // @name         Remove Duolingo Dutch on quizlet
-// @description  Removes 'Duolingo Dutch' from Quizlet sets' titles in folder
-// @version      1.2
+// @version      1.3
+// @description  Removes string 'Duolingo Dutch' from Quizlet sets' titles in folder
+// @author       alrikmunoz
 // @match        https://quizlet.com/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/quizletDutch.user.js
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/quizletDutch/quizletDutch.user.js
 // ==/UserScript==
 
 setTimeout(remove, 5000);

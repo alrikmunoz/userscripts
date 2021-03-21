@@ -1,11 +1,10 @@
 // ==UserScript==
-// @name         Geoguessr remove ad thing
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        https://geoguessr.com/*
-// @grant        none
+// @name         Geoguessr remove bottom ad
+// @version      0.2
+// @description  Script to remove the ad area at the bottom of the Geoguessr viewport when playing, updates on resize too
+// @author       alrikmunoz
+// @match        https://www.geoguessr.com/*
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/geoguessr/geoguessrRemoveAd.user.js
 // ==/UserScript==
 
 var canvas;

@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Avoid YT spoilers
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @version      0.2
+// @description  Hide everything except actual video viewport on youtube when clicking the §-button
+// @author       alrikmunoz
 // @match        https://www.youtube.com/*
+// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/youtube/youtubeNoSpoilers.user.js
 // ==/UserScript==
 
 window.addEventListener("keydown", function(event) {

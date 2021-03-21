@@ -4,7 +4,7 @@
 // @description  Make the top bar/area of di.se more compact
 // @author       alrikmunoz
 // @match        https://www.di.se/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/di.se/diTopBarFix.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/di.se/diTopBarFix.user.js
 // ==/UserScript==
 
 function hideTop() {

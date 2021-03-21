@@ -4,7 +4,7 @@
 // @description  Removes string 'Duolingo Dutch' from Quizlet sets' titles in folder
 // @author       alrikmunoz
 // @match        https://quizlet.com/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/quizletDutch/quizletDutch.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/quizletDutch/quizletDutch.user.js
 // ==/UserScript==
 
 setTimeout(remove, 5000);

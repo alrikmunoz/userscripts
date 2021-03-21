@@ -4,7 +4,7 @@
 // @description  Script to remove the ad area at the bottom of the Geoguessr viewport when playing, updates on resize too
 // @author       alrikmunoz
 // @match        https://www.geoguessr.com/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/geoguessr/geoguessrRemoveAd.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/geoguessr/geoguessrRemoveAd.user.js
 // ==/UserScript==
 
 var canvas;

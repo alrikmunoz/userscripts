@@ -4,7 +4,7 @@
 // @description  Hide everything except actual video viewport on youtube when clicking the §-button
 // @author       alrikmunoz
 // @match        https://www.youtube.com/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/youtube/youtubeNoSpoilers.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/youtube/youtubeNoSpoilers.user.js
 // ==/UserScript==
 
 window.addEventListener("keydown", function(event) {

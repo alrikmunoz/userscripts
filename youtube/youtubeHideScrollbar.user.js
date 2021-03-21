@@ -4,7 +4,7 @@
 // @description  Hide scrollbar on youtube in order to prevent accidentally clicking it when scrolling down and clicking while in fullscreen
 // @author       alrikmunoz
 // @match        https://www.youtube.com/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/youtube/youtubeHideScrollbar.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/youtube/youtubeHideScrollbar.user.js
 // ==/UserScript==
 
 var styleSheet = document.createElement("style");

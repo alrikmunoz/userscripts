@@ -4,7 +4,7 @@
 // @description  Clicks button to collect channel points automatically while watching a stream on Twitch
 // @author       alrikmunoz
 // @match        https://www.twitch.tv/*
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/twitchChannelPoints/twitchChannelPoints.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/twitchChannelPoints/twitchChannelPoints.user.js
 // ==/UserScript==
 
 setInterval(() => {

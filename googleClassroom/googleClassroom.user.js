@@ -5,7 +5,7 @@
 // @author       alrikmunoz
 // @match        https://classroom.google.com/u/1/h
 // @match        https://classroom.google.com/u/0/h
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/googleClassroom/googleClassroom.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/googleClassroom/googleClassroom.user.js
 // ==/UserScript==
 
 setInterval(doList, 600);

@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Filter 17TE on labb.vgy.se
 // @version      2.3
-// @description  Toggles visibilty of all students' website links and only 17TE students' links on startpage of labb.vgy.se. No longer relevant since 17TE students are removed.
+// @description  Toggles visibilty of all students' website links and only 17TE students' links on startpage of labb.vgy.se
 // @author       alrikmunoz
 // @match        http://labb.vgy.se/
-// @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/vgyLabbServer/filterLabbVgy17te.user.js
+// @require      file:///Users/alrik/Desktop/Hemma/Programmering/userscripts/vgyLabbServer/filterLabbVgy17te.user.js
 // ==/UserScript==
 
 var table = document.querySelector("table");

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Remove Duolingo Dutch on quizlet
+// @name         (BROKEN) Remove Duolingo Dutch on quizlet
 // @version      1.3
 // @description  Removes string 'Duolingo Dutch' from Quizlet sets' titles in folder
 // @author       alrikmunoz

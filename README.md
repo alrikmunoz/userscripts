@@ -7,3 +7,4 @@ A repository of userscripts that I use with the Tampermonkey Chrome extension. U
 - Broken: Geuguessr ad hide
 - Broken: di.se top bar fix
 - Add "How-to" in README
+- Add userscript to obfuscate/hide reddit username

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Filter 17TE on labb.vgy.se
 // @version      2.3
-// @description  Toggles visibilty of all students' website links and only 17TE students' links on startpage of labb.vgy.se
+// @description  Toggles visibilty of all students' website links and only 17TE students' links on startpage of labb.vgy.se. No longer relevant since 17TE students are removed.
 // @author       alrikmunoz
 // @match        http://labb.vgy.se/
 // @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/vgyLabbServer/filterLabbVgy17te.user.js

@@ -3,7 +3,7 @@
 // @version      0.2
 // @description  Automatically press the "Youtube"-button in embedded youtube videos to go and watch video on youtube website instead
 // @author       alrikmunoz
-// @match      https://www.youtube.com/embed/*
+// @match        https://www.youtube.com/embed/*
 // @updateURL    https://github.com/alrikmunoz/userscripts/raw/master/youtubeEmbeddedEurovision/youtubeEmbeddedToYT.user.js
 // ==/UserScript==
 
